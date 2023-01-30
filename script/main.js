@@ -1,7 +1,8 @@
 //variables always go at the top 
 // these are the connections that you're making to elements on the page 
 //use CSS slectors to make connection to elements with Javascript
-let theButton = document.querySelector("#buttonOne")
+let theButton = document.querySelector("#buttonOne"),
+    theHeading = document.querySelector("headline h1");
 
 //step 3
 //functionality always goes in the middle -> how do we want
