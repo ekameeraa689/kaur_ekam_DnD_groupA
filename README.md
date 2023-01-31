@@ -17,7 +17,7 @@ History
 TODO: Write history
 
 Credits
-TODO: Write credits
+Ekampreet Kaur
 
 License
 TODO: Write license
